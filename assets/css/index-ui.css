@@ -1,0 +1,357 @@
+
+.left_body{
+		position:fixed;
+		top:0%;
+		left:0%;
+		width:399px;
+		height:100%;
+		border-right:1px solid #EBEBEB;
+		border-bottom:1px solid #EBEBEB;
+		/*box-shadow: 2px 0px 15px 0px rgba(50,50,50,0.05);*/
+		background:#FAFAFA;
+		overflow-y:auto;
+		overflow-x:hidden;
+
+}
+
+.right_body{
+	position:absolute;
+	margin-left: 400px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:5px;
+	padding-bottom:50px;
+}
+
+/*
+	left body
+*/
+
+.profile_box{
+			width:325px;
+			padding:20px;
+			border-radius:5px;
+			margin-left:18px;
+			margin-top:10px;
+			 background:#FAFAFA;
+}
+
+.profile_pic{width:140px;
+			 height:140px;
+			 overflow:hidden;
+			 margin:0px auto;
+				 border-radius:150px;
+}
+
+.profile_pic img{width:140px;
+				 margin-left:	0px;
+				 margin-top:0px;
+				 border-radius:150px;
+}
+
+.profile_name{text-align:center;
+			  font-size:22px;
+			  height:30px;
+			  line-height:30px;
+			  margin-top:10px;
+			  color:black;
+			  font-family: rock;
+			  font-weight:normal;
+}
+
+.profile_domains{margin-top:3px;
+				 text-align:center;
+				 font-size:14px;
+			  font-family: roboto_m;
+			  color:#4F7A27;
+			  font-weight:normal;
+}
+
+.profile_about{
+			   margin-top:20px;
+			   font-size:15px;
+			   text-align:left;
+			   line-height:18px;
+			   color:#8C6E78;
+}
+
+.profile_links{margin-top:20px;
+				text-align:left;
+}
+
+.link{height:30px;
+	  line-height:30px;
+	  font-size:13px;
+	  margin-top:0px;
+}
+
+.link img{float:left;
+		  height:16px;
+		  margin-right:10px;
+		  margin-top:6px;
+}
+
+.link a{
+	  color:#9D8DF1;
+	  text-decoration:none;
+	}
+
+.link a:hover{
+		color:#7569B2;
+}
+
+/*
+	Right body
+*/
+
+.hide{display:none;}
+
+.menu{
+	  float:left;
+	  width:100%;
+}
+
+.option{padding-left:15px;
+		padding-right:15px;
+		height:30px;
+		line-height:30px;
+		font-size:14px;
+		background-color:#fff;
+		border-radius:100px;
+		float:left;
+		margin-left:10px;
+		margin-top:15px;
+        border:1px solid #EBEBEB;
+        cursor:pointer;
+        color:#B2B2B2;
+
+        
+		box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.06);
+}
+
+
+.option:hover{background-color:#9D8DF1;
+			  border:1px solid #8B95DA;
+			  color:white;
+}
+
+.selected{background-color:#9D8DF1;
+			  border:1px solid #8B95DA;
+			  color:white;
+}
+
+.section{margin-top:30px;
+		 margin-left:15px;
+		 float:left;
+}
+
+#welcome_section{
+		max-width:500px;
+		padding:20px;
+		border-radius:5px;
+		margin:0px auto;
+		margin-top:200px;
+		float:none;
+	  background-color:#fff;
+	  border:1px solid #EBEBEB;
+	  box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.06);
+
+}
+
+.super_heading{font-size:32px;
+			   color:#000;
+			   font-family:roboto_t;
+			   margin-bottom:20px;
+}
+
+.super_details{font-family:abel;
+				font-size:18px;
+}
+
+/**
+	items
+**/
+
+.item{padding:20px;
+	  padding-top:20px;
+	  border-radius:5px;
+	  margin-right:20px;
+	  margin-top:20px;
+	  box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.06);  
+	  /*background-color:#fff;*/
+	  border:1px solid #EBEBEB;
+	  max-width:600px;
+}
+
+.item:first-child{margin-top:0px;}
+
+.item_heading{font-size:24px;
+			  min-height:30px;
+			  color:#000;
+			  font-family:roboto_m;
+}
+
+.item_heading a{color:#000;
+				text-decoration:none;
+}
+
+.item_heading a:hover{color:#9D8DF1;}
+
+.item_heading i{line-height:24px;
+				font-size:12px;
+				color:#CB9CF2;
+				font-style: normal;
+}
+
+.item_subheading{font-size:16px;
+				 color:#000;
+				 margin-top:5px;
+}
+
+.item_timeline{font-size:12px;
+			    color:#4F7A27;
+			    margin-top:3px;
+}
+
+.item_details{
+			  font-size:16px;
+			  max-width:100%;
+			  font-family:abel;
+			  margin-top:15px;
+
+}
+
+.item_tags{width:100%;
+			float:left;
+		   margin-top:10px;
+		   margin-bottom:10px;
+}
+
+.tag{padding-left:15px;
+		padding-right:15px;
+		height:20px;
+		line-height:20px;
+		font-size:12px;
+		background-color:#FAFAFA;
+		border-radius:100px;
+		float:left;
+		margin-left:10px;
+		margin-top:10px;
+        border:1px solid #EBEBEB;
+        color:#B47EB3;
+    }
+
+.tag:first-child{margin-left:0px;}
+
+
+.skills_item{
+	  min-width:400px;}
+
+.skill_name{font-size:16px;
+			margin-top:15px;
+			margin-left:30px;
+				}
+
+.skill_subheading{
+	margin-top:20px;
+	margin-left:15px;
+	font-size:18px;
+	font-family:roboto_m;
+}
+
+progress{float:right;
+					 margin-left:20px;
+					 height:20px;
+}
+
+.backend{color:#d35400;}
+
+.frontend{color: #124e8c;}
+
+.database{color:#333333; }
+
+.mobile{color: #C60F7B;}
+
+.libraries{color: #2E4756;}
+
+.other{color:#27ae60;}
+
+.item_note{font-size:12px;
+			font-style:italic;
+			margin-top:30px;
+}
+
+/*
+ progress bar
+*/
+
+.skillbar {
+	position:relative;
+	display:block;
+	margin-top:15px;
+	margin-left:30px;
+	background:#e8dfdf;
+	height:25px;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-webkit-transition:0.4s linear;
+	-moz-transition:0.4s linear;
+	-ms-transition:0.4s linear;
+	-o-transition:0.4s linear;
+	transition:0.4s linear;
+	-webkit-transition-property:width, background-color;
+	-moz-transition-property:width, background-color;
+	-ms-transition-property:width, background-color;
+	-o-transition-property:width, background-color;
+	transition-property:width, background-color;
+}
+
+.skillbar-title {
+	position:absolute;
+	top:0;
+	left:0;
+width:100%;
+	font-size:12px;
+	color:#ffffff;
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-bottom-left-radius:4px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-bottomleft:3px;
+	border-top-left-radius:3px;
+	border-bottom-left-radius:3px;
+}
+
+.skillbar-title span {
+	display:block;
+	/*background:rgba(0, 0, 0, 0.1);*/
+	padding:0 15px;
+	height:25px;
+	line-height:26px;
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-bottom-left-radius:3px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-bottomleft:3px;
+	border-top-left-radius:3px;
+	border-bottom-left-radius:3px;
+}
+
+.skillbar-bar {
+	height:25px;
+	width:0px;
+	background:#6adcfa;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+
+/*.skill-bar-percent {
+	position:absolute;
+	right:10px;
+	top:0;
+	font-size:11px;
+	height:25px;
+	line-height:25px;
+	color:#ffffff;
+	color:rgba(0, 0, 0, 0.4);
+}*/
