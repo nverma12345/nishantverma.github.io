@@ -260,12 +260,12 @@
   ],
   "achievements": [
     {
-      "title": "Google India Challenge Scholarship Recipient - 2018",
-      "url": "https://s3-us-west-2.amazonaws.com/udacity-email/Scholarships/Google-Scholarship-India-Badge.png?utm_medium=email&utm_campaign=sch_600_auto_ndxxx_accepted-google-india&utm_source=blueshift&utm_content=sch_600_auto_ndxxx_accepted-google-india&bsft_eid=d8fd1fe3-6ebc-4fc5-b432-3ecfb97e17fb&bsft_clkid=1f4e2ac6-f62e-4f32-a82a-27b0f5926b02&bsft_uid=b77c40e0-be86-4cd4-8c73-dccd0d216cb3&bsft_mid=de0f7d62-2fe1-4706-8f5b-513755cbd83b&bsft_txnid=a28d2161-4b97-4972-af3a-33dad6e86704",
-      "location": "Udacity - Google",
-      "timeline": "02/2018",
+      "title": "Google Digital Unlocked - 2017",
+      "url": "https://drive.google.com/open?id=1pkTzD6CI9nUzlhxmxIu2Alb7DZD2Aydc",
+      "location": "Google",
+      "timeline": "10/2017",
       "tag": [
-        "Android",
+        "SEO",
         "Scholarship",
         "Google"
       ],
@@ -273,14 +273,14 @@
       "openSource": false
     },
     {
-      "title": "2nd | International Robotic Competition (IRC)",
-      "url": "http://www.ircleague.com/past-IRCs.php",
-      "location": "Husky Union Building, University of Washington, Seattle, USA",
-      "timeline": "06/2015",
+      "title": "Classmate APP",
+      "url": "https://drive.google.com/open?id=19o2bwN0FvOgAIpRKs66oTA8hhA_q-bF0",
+      "location": "online",
+      "timeline": "10/2017",
       "tag": [
-        "Robotics",
+        "Campus ambassador",
         "Problem Solving",
-        "Process Automation"
+        "Blogging"
       ],
       "about": "My team `Real Steel` designed a rocket assembly process for IRC International 2014 held at Seattle, USA in 2015. <ul><li> Robot aim was to assemble a rocket. </li> <li> Created a black line follower robot which could remove obstacles. </li> <li> The robot picked objects to place them at a launchpad. </li></ul>",
       "openSource": false
@@ -355,7 +355,7 @@
       "url": "https://drive.google.com/open?id=1byTJRNEYmQlXujP9_1IxkIcVXNqI-5WU",
       "from": "Twenty19",
       "timeline": "09/2017",
-      "about": "",
+      "about": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications",
       "complete": true
     },
     {
@@ -363,7 +363,7 @@
       "url": "https://drive.google.com/open?id=1gMqs8dpgNOHO4FtTMvsxLUz4ZKUOTm9I",
       "from": "Lucideus",
       "timeline": "06/2017",
-      "about": "",
+      "about": "The term white hat in Internet slang refers to an ethical computer hacker, or a computer security expert, who specializes in penetration testing and in other testing methodologies that ensures the security of an organization's information systems.",
       "complete": true
     },
     {
@@ -371,7 +371,7 @@
       "url": "https://drive.google.com/open?id=1oAM2VMSIFV9Jy1E-6B58_T-XpR0pRmfJ",
       "from": "Microsoft Virtual Academy",
       "timeline": "08/2018",
-      "about": "",
+      "about": "Web design encompasses many different skills and disciplines in the production and maintenance of websites.",
       "complete": true
     },
     {
