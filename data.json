@@ -196,6 +196,21 @@
     }
   ],
   "projects": [
+       {
+      "projectTitle": "Vegetable Cutter Game",
+      "projectUrl": "https://menishantverma.000webhostapp.com/vegetable/1.html",
+      "title": "Vegetable Cutter",
+      "url": "https://github.com/nverma12345/Vegetable-Cutter-Game",
+      "location": "New Delhi, Delhi",
+      "timeline": "25/12/2018 - 15/01/2019",
+      "tag": [
+        "Css",
+        "Html",
+        "Jquery"
+      ],
+      "about": "Vegetable Cutter is a very basic game made in Html and css. It is inspired from the popular mobile game Fruit Ninja",
+      "openSource": true
+    },
     {
       "projectTitle": "CLUB-1O1-Self-Developed-App",
       "projectUrl": "https://play.google.com/store/apps/details?id=com.club101.club101",
