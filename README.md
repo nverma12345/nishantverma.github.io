@@ -15,7 +15,7 @@ This is my personal page, I have kept it very very simple and to the point, my f
 
 **Author**
 
-- [Nishant Verma](https://nverma12345.github.io/nishantverma.github.io/)
+- [Raman Tehlan](https://ramantehlan.github.io/)
 
 
 Feel free to add your own features or improve any current feature, any kind of help is appreciated!
