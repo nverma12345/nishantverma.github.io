@@ -351,6 +351,83 @@ width:100%;
       bottom:0%;
   }
 
+@media only screen and (min-width: 1200px) {
+  :root{
+    --title-size: 21px;
+    --subtitle-size: 13px;
+    --body-size: 15px;
+  }
+
+  .profile {
+    width: 25%;
+  }
+
+  .view-body {
+    width: 75%;
+    margin-left: 25%;
+  }
+
+  .content{
+    margin-top: 30px;
+  }
+
+  .small-content-body{
+      width:80%;
+      margin-top:10px;
+    }
+
+
+  .menu {
+    width: 75%;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .menu-control {
+    display: none;
+  }
+
+  .menu-list {
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    box-shadow: none;
+    background: none;
+  }
+
+  .menu-list-span {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  .menu-list-item {
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: var(--body-size);
+    margin-left: 6px;
+    margin-right: 6px;
+    border-bottom: 3px solid transparent;
+  }
+
+  .menu-list-item:hover {
+    background: none;
+    color: var(--primary);
+    border-bottom: 3px solid var(--primary);
+  }
+
+  .menu-list-selected {
+    background: none;
+    color: var(--primary);
+    border-bottom: 3px solid var(--primary);
+  }
+
+  .footer{
+    width:75%;
+  }
+}
+
 /*.skill-bar-percent {
 	position:absolute;
 	right:10px;
