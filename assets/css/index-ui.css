@@ -344,6 +344,12 @@ width:100%;
 	-moz-border-radius:3px;
 	-webkit-border-radius:3px;
 }
+.footer{
+      background: var(--background);
+      position:fixed;
+      width:70%;
+      bottom:0%;
+  }
 
 /*.skill-bar-percent {
 	position:absolute;
