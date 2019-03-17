@@ -7,6 +7,14 @@ html{
        color:#333030;
        background:#FAFAFA;
        background:#fff;
+       backgroundText2: rgba(0, 0, 0, 0.6);
+       backgroundText3: rgba(0, 0, 0, 0.3);
+       title-size: 20px;
+  subtitle-size: 12px;
+  body-size: 14px;
+  title-spacing: 0.075rem;
+   subtitle-spacing: 0.00625rem;
+   body-spacing: 0.015625rem;
 }
 
 body{
@@ -22,6 +30,9 @@ body{
            z-index:1;
            background-color:#9D8DF1;
 }
+.footer{
+    width:75%;
+  }
 
 
 @font-face{
